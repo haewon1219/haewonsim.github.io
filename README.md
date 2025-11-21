@@ -1,1 +1,12 @@
 # haewonsim.github.io
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>나의 GitHub 페이지</title>
+</head>
+<body>
+  <h1>안녕하세요!</h1>
+  <p>GitHub Pages로 만든 첫 홈페이지입니다.</p>
+</body>
+</html>
